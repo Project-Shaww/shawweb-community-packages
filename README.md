@@ -10,14 +10,14 @@ Paquetes verificados de la comunidad de ShawOS.
 
 ##  Tabla de Contenidos
 
-- [¿Qué son los Paquetes de ShawOS?](#-qué-son-los-paquetes-de-shawos)
-- [Instalar Paquetes](#-instalar-paquetes)
-- [Formatos Soportados](#-formatos-soportados)
-- [Crear tu Propio Paquete](#-crear-tu-propio-paquete)
-- [Requisitos para Publicar](#-requisitos-para-publicar)
-- [Cómo Contribuir](#-cómo-contribuir)
-- [Pautas de la Comunidad](#-pautas-de-la-comunidad)
-- [Estructura del Repositorio](#-estructura-del-repositorio)
+- [¿Qué son los Paquetes de ShawOS?](#qué-son-los-paquetes-de-shawos)
+- [Instalar Paquetes](#instalar-paquetes)
+- [Formatos Soportados](#formatos-soportados)
+- [Crear tu Propio Paquete](#crear-tu-propio-paquete)
+- [Requisitos para Publicar](#requisitos-para-publicar)
+- [Cómo Contribuir](#cómo-contribuir)
+- [Pautas de la Comunidad](#pautas-de-la-comunidad)
+- [Estructura del Repositorio](#estructura-del-repositorio)
 
 ---
 
@@ -25,10 +25,10 @@ Paquetes verificados de la comunidad de ShawOS.
 
 Los paquetes de ShawOS son **aplicaciones y comandos** que extienden la funcionalidad del sistema operativo. Pueden ser:
 
-- ** Aplicaciones GUI**: Ventanas interactivas con interfaz gráfica
-- ** Comandos de Terminal**: Utilidades de línea de comandos
-- ** Juegos**: Experiencias interactivas y divertidas
-- ** Herramientas**: Editores, calculadoras, gestores, etc.
+- **Aplicaciones GUI**: Ventanas interactivas con interfaz gráfica
+- **Comandos de Terminal**: Utilidades de línea de comandos
+- **Juegos**: Experiencias interactivas y divertidas
+- **Herramientas**: Editores, calculadoras, gestores, etc.
 
 ---
 
